@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ### I am best in ❤
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,js,html,css,wasm" />
+    <img src="https://skillicons.dev/icons?i=js,'ts'" />
   </a>
 </p>
 
