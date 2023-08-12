@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Farhantanvin</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">Full Stack JavaScript developer with a strong focus on TypeScript.Proficient in developing and maintaining robust web applicationsusing cutting-edge technologies. Skilled in front-end and back-end development, API integration, and database management.Adept at collaborating with teams to deliver high-qualitysolutions. Passionate about continuous learning and innovativeproblem-solving.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
