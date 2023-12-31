@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Farhan Tanvin</h1>
-<h3>Full Stack JavaScript developer with a strong focus on TypeScript.Proficient in developing and maintaining robust web applications using cutting-edge technologies. Skilled in front-end and back-end development, API integration, and database management.Adept at collaborating with teams to deliver high-quality solutions. Passionate about continuous learning and innovative problem-solving.</h3>
+<h6>Full Stack JavaScript developer with a strong focus on TypeScript.Proficient in developing and maintaining robust web applications using cutting-edge technologies. Skilled in front-end and back-end development, API integration, and database management.Adept at collaborating with teams to deliver high-quality solutions. Passionate about continuous learning and innovative problem-solving.</h6>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
