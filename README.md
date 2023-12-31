@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 <h5>Full Stack JavaScript developer with a strong focus on TypeScript.Proficient in developing and maintaining robust web applications using cutting-edge technologies. Skilled in front-end and back-end development, API integration, and database management.Adept at collaborating with teams to deliver high-quality solutions. Passionate about continuous learning and innovative problem-solving.</h5>
 
 <h3 align="left">Connect with me:</h3>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-linkedin-profile)
+[![Twitter](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&logo=twitter&logoColor=white)](https://twitter.com/your-twitter-handle)
 <p align="left">
 </p>
 
